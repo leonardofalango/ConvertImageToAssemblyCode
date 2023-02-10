@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\transformador de imagens\bin\Debug\net6.0-windows\transformador de imagens.exe
+C:\Users\disrct\Desktop\transformador de imagens\bin\Debug\net6.0-windows\transformador de imagens.deps.json
+C:\Users\disrct\Desktop\transformador de imagens\bin\Debug\net6.0-windows\transformador de imagens.runtimeconfig.json
+C:\Users\disrct\Desktop\transformador de imagens\bin\Debug\net6.0-windows\transformador de imagens.dll
+C:\Users\disrct\Desktop\transformador de imagens\bin\Debug\net6.0-windows\transformador de imagens.pdb
+C:\Users\disrct\Desktop\transformador de imagens\obj\Debug\net6.0-windows\transformador de imagens.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\transformador de imagens\obj\Debug\net6.0-windows\transformador de imagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\transformador de imagens\obj\Debug\net6.0-windows\transformador de imagens.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\transformador de imagens\obj\Debug\net6.0-windows\transformador de imagens.AssemblyInfo.cs
+C:\Users\disrct\Desktop\transformador de imagens\obj\Debug\net6.0-windows\transformador de imagens.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\transformador de imagens\obj\Debug\net6.0-windows\transformador de imagens.dll
+C:\Users\disrct\Desktop\transformador de imagens\obj\Debug\net6.0-windows\refint\transformador de imagens.dll
+C:\Users\disrct\Desktop\transformador de imagens\obj\Debug\net6.0-windows\transformador de imagens.pdb
+C:\Users\disrct\Desktop\transformador de imagens\obj\Debug\net6.0-windows\transformador de imagens.genruntimeconfig.cache
+C:\Users\disrct\Desktop\transformador de imagens\obj\Debug\net6.0-windows\ref\transformador de imagens.dll
